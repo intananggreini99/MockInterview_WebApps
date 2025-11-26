@@ -89,8 +89,13 @@ Aplikasi berjalan menggunakan:
 
 ### **System Score**
 
-![Documentation](documentation/rumus/rumus (1).png)
-![Documentation](documentation/rumus/rumus (2).png)
+![Documentation](documentation/rumus/rumus(1).png)
+![Documentation](documentation/rumus/rumus(2).png)
+![Documentation](documentation/rumus/rumus(3).png)
+![Documentation](documentation/rumus/rumus(4).png)
+![Documentation](documentation/rumus/rumus(5).png)
+![Documentation](documentation/rumus/rumus(6).png)
+![Documentation](documentation/rumus/rumus(7).png)
 
 ### **Final Score (HRD)**
 
