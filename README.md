@@ -18,7 +18,7 @@ Web Apps ini terdiri dari dua situs utama:
 
 ---
 
-## 🧠 Fitur Utama
+## 🧩 Fitur Utama
 
 ### 🔹 1) Analisis Hard Skill (Multi-Model NLP)
 
@@ -69,23 +69,11 @@ Digunakan untuk mengukur kedekatan jawaban dengan role ideal.
 
 ## 🧩 Arsitektur Sistem
 
-```
-[Interviewee UI] --> [NLP Processing] --> [PostgreSQL DB] --> [HRD Dashboard]
-```
 
-Aplikasi berjalan menggunakan:
-
-| Komponen | Teknologi                                  |
-| -------- | ------------------------------------------ |
-| UI       | Streamlit                                  |
-| NLP      | spaCy, Transformers, Sentence-Transformers |
-| IR       | TF-IDF, BM25                               |
-| ML       | PyTorch                                    |
-| DB       | PostgreSQL (Docker)                        |
-
+![Documentation](documentation/flow-system/MockInterview.png)
 ---
 
-## 📐 Perhitungan Skor
+## 🧩 Perhitungan Skor
 
 ### **System Score**
 
@@ -97,12 +85,16 @@ Aplikasi berjalan menggunakan:
 ![Documentation](documentation/rumus/rumus(6).png)
 ![Documentation](documentation/rumus/rumus(7).png)
 
+| Simbol | Makna          |
+| ------ | -------------- |
+| H      | Hard Skill     |
+| S      | Soft Skill     |
+| E      | Sentiment      |
+| M      | Semantic Match |
+
 ### **Final Score (HRD)**
 
-[
-Final = 0.8(System) + 0.2(HRD)
-]
-
+![Documentation](documentation/rumus/rumus(8).png)
 ---
 
 ## 🗄️ Database
