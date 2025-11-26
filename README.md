@@ -57,16 +57,6 @@ paraphrase-multilingual-MiniLM-L12-v2
 
 Digunakan untuk mengukur kedekatan jawaban dengan role ideal.
 
-### 🔹 5) Dashboard HRD
-
-* List kandidat
-* Detail skor NLP
-* Input nilai HR
-* Perhitungan final score
-* Validasi kandidat
-
----
-
 ## 🧩 Arsitektur Sistem
 
 
