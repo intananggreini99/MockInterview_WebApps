@@ -89,9 +89,8 @@ Aplikasi berjalan menggunakan:
 
 ### **System Score**
 
-[
-System = 0.6(Hard) + 0.2(Soft) + 0.1(Sentiment) + 0.1(Semantic)
-]
+![Documentation](documentation/rumus/rumus (1).png)
+![Documentation](documentation/rumus/rumus (2).png)
 
 ### **Final Score (HRD)**
 
@@ -175,7 +174,7 @@ Default user:
 
 ---
 
-## Tampilan Web Apps
+## 💻 Tampilan Web Apps
 
 ### Interviewee Site
 
@@ -183,9 +182,13 @@ Default user:
 ![Documentation](documentation/interviewee/site2.png)
 
 ### HRD SIte
-
+![Documentation](documentation/hrd/login.png)
 * Invalidate Scoring
+  ![Documentation](documentation/hrd/invalidate.png)
+* HRD Scoring
+  ![Documentation](documentation/hrd/scoring_hrd.png)
 * Validate Scoring
+  ![Documentation](documentation/hrd/validate.png)
 
 ---
 
