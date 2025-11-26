@@ -1,16 +1,6 @@
-Berikut saya buatkan **README.md lengkap, profesional, modern, dan siap dipasang** untuk repository:
-
-👉 **MockInterview_WebApps**
-
-Silakan **copy–paste seluruh isi di bawah ini** ke file `README.md`.
-
----
-
 # 📘 AI Mock Interview Web Apps
 
 ### Sistem Penilaian Kandidat Berbasis Text Mining & NLP
-
-![Preview](assets/preview_app.png)
 
 ---
 
@@ -185,27 +175,15 @@ Default user:
 
 ---
 
-## 🧪 Teknologi yang Digunakan
+## Tampilan Web Apps
 
-### Natural Language Processing
+### Interviewee Site
 
-* spaCy
-* sentence-transformers
-* HuggingFace Transformers
-* PyTorch
 
-### Information Retrieval
+### HRD SIte
 
-* TF-IDF
-* BM25
-
-### Web Framework
-
-* Streamlit
-
-### Database
-
-* PostgreSQL (Docker)
+* Invalidate Scoring
+* Validate Scoring
 
 ---
 
@@ -226,21 +204,3 @@ Program Studi Informatika
 Mata Kuliah *Praktikum Text Mining – Semester 3*
 
 ---
-
-## ⭐ Support
-
-Jika proyek ini bermanfaat, bantu dengan memberi **⭐ star** di repository.
-
----
-
-# 🎯 Selesai!
-
-Jika ingin:
-
-* ditambah badge GitHub
-* flowchart sistem
-* ilustrasi UI
-* dokumentasi versi PDF
-* atau demo video script
-
-Cukup bilang saja, saya siap bantu 🚀
