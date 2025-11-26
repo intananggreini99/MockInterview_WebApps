@@ -197,10 +197,6 @@ Default user:
 
 ---
 
-## 👨‍💻 Author
+## © Lisensi
 
-**Intan Dwi Anggreini**
-Program Studi Informatika
-Mata Kuliah *Praktikum Text Mining – Semester 3*
-
----
+License © 2025 — **Intan Dwi Anggreini**
