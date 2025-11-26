@@ -1,0 +1,9 @@
+Collecting SQLAlchemy
+  Using cached sqlalchemy-2.0.44-cp312-cp312-win_amd64.whl.metadata (9.8 kB)
+Collecting greenlet>=1 (from SQLAlchemy)
+  Using cached greenlet-3.2.4-cp312-cp312-win_amd64.whl.metadata (4.2 kB)
+Requirement already satisfied: typing-extensions>=4.6.0 in d:\interview-webapps\venv\lib\site-packages (from SQLAlchemy) (4.15.0)
+Using cached sqlalchemy-2.0.44-cp312-cp312-win_amd64.whl (2.1 MB)
+Using cached greenlet-3.2.4-cp312-cp312-win_amd64.whl (299 kB)
+Installing collected packages: greenlet, SQLAlchemy
+Successfully installed SQLAlchemy-2.0.44 greenlet-3.2.4
