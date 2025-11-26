@@ -1,4 +1,4 @@
-# 📘 AI Mock Interview Web Apps
+# 📘 Mock Interview Web Apps
 
 ### Sistem Penilaian Kandidat Berbasis Text Mining & NLP
 
@@ -8,7 +8,7 @@
 
 **AI Mock Interview Web Apps** adalah aplikasi berbasis web yang dirancang untuk melakukan *assessment* kandidat secara otomatis menggunakan teknik **Text Mining**, **Natural Language Processing (NLP)**, dan **Machine Learning**.
 
-Aplikasi ini terdiri dari dua modul utama:
+Web Apps ini terdiri dari dua situs utama:
 
 1. **Interviewee App (`app.py`)**
    Kandidat mengisi biodata, menjawab pertanyaan hard skill & soft skill, dan sistem akan menghitung skor otomatis berbasis NLP.
